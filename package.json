@@ -18,6 +18,8 @@
     "Lluis Agusti <hi@llu.lu>"
   ],
   "dependencies": {
+    "@next-auth/prisma-adapter": "^1.0.5",
+    "@prisma/client": "^4.7.1",
     "next": "latest",
     "next-auth": "latest",
     "nodemailer": "^6",
